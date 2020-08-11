@@ -1,0 +1,13 @@
+.nav{
+    float: left;
+    .nav-link{
+        text-decoration: none;
+        display: block;
+        padding: 20px;
+        color: white;
+    }
+    .nav-link:hover{
+        background-color: grey;
+    }
+    
+}

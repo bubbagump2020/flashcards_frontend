@@ -1,0 +1,25 @@
+form{
+    input{
+        padding: 10px;
+        margin: 10px;
+        width: 25rem;
+        border: none;
+        border-bottom: solid;
+        font-size: 20px;
+        outline: none;
+    }
+    .submit-button{
+        cursor: pointer;
+        border: none;
+        padding: 10px;
+        margin: 10px;
+        width: 26rem;
+        font-size: 20px;
+        background-color: #00b33c;
+        color: whitesmoke;
+    }
+    .submit-button:hover{
+        background-color: #009933;
+    }
+
+}
